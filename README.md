@@ -18,6 +18,14 @@ A real-time dashboard to detect network anomalies using unsupervised machine lea
 - seaborn, matplotlib
 - plotly
 
+## 📸 Screenshots
+
+![detection summary](screenshots/detection%20summary.png)
+
+![Anomaly Plot](screenshots/distribution.png)
+
+![Smart Summary](screenshots/summary.png)
+
 ## 📥 Dataset
 
 We use the NSL-KDD dataset:

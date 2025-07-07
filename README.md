@@ -11,7 +11,7 @@ A real-time dashboard to detect network anomalies using unsupervised machine lea
 - Works in Jupyter Notebook + Streamlit dashboard
 
 ## 📦 Tech Stack
-- Python 🐍
+- Python 
 - Streamlit
 - scikit-learn
 - pandas, numpy

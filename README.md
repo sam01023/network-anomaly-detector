@@ -36,5 +36,5 @@ This dataset is widely used for evaluating intrusion detection systems.
 ## 📊 Jupyter Notebook
 
 You can also explore the detection logic step-by-step using:
-- [`anomaly_detector.ipynb`](./anomaly_detector.ipynb)
+- [`anomaly_detector.ipynb`](anomaly_detection.ipynb)
 
